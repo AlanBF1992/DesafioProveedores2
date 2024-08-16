@@ -1,0 +1,10 @@
+body {
+	min-height: 100vh;
+	background-color: #11191F;
+}
+
+.formulario {
+	min-width: 240px;
+	max-width: 480px;
+	width: 80%; 
+}
